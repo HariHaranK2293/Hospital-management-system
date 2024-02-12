@@ -1,0 +1,43 @@
+body{
+    background-image:url("./img4.jpg") ;
+    padding: 2rem;
+    margin:20px;
+    font-size: large;
+    background-size: cover;
+    text-align: center;
+    
+}
+
+
+.form-container {
+    max-width: 800px;
+    margin-left: 250px;
+    padding: 10rem;
+    background-color: #000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-top: 0px;
+    background-image: url("./img5.jpg");
+    background-size: cover;
+    text-align: center;
+    
+}
+
+.text1{
+    color: #000;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-size: larger;
+    font-weight: BOLD;
+    
+}
+
+.header {
+    padding: 2rem;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-image: url("templates\img5.jpg");
+    color: #000;
+    font-size: 20px;
+    margin-bottom: 100px;
+  }
